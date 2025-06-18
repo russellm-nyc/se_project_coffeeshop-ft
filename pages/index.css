@@ -124,7 +124,7 @@
   line-height: 30px;
 }
 
-.recipes__video {
+.recipes__videos {
   display: flex;
   justify-content: center;
   gap: 40px;
@@ -139,7 +139,6 @@
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
-  margin-top: 24px;
 }
 
 .recipes__iframe {
