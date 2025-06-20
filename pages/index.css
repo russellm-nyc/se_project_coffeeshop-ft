@@ -220,6 +220,10 @@
   margin-bottom: 0%;
 }
 
+.form__input::placeholder {
+  color: #838383;
+}
+
 .form__label {
   display: block;
   font-weight: 600;
