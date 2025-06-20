@@ -195,11 +195,17 @@
 
 .form__button {
   width: 385px;
-  background: #2f71e5;
+  background: #1878dc;
   color: #ffffff;
   font-size: 18px;
   padding: 20px 0;
   border: none;
+}
+
+.form__button:hover {
+  background-color: #3f96f3;
+  /* transition: 0.7s; */
+  transition: transform 1s ease-in-out;
 }
 
 .form__fieldset {
