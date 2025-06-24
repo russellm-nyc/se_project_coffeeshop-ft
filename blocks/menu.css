@@ -58,6 +58,7 @@
   font-style: normal;
   font-weight: 16px;
   line-height: 20px;
+  gap: 5px;
   display: flex;
   justify-content: space-between;
   list-style-type: none;
