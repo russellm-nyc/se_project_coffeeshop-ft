@@ -1,5 +1,5 @@
 .recipes {
-  padding: 100px 80px 0;
+  padding: 100px 80px 215px;
   background: #0a2750 url("../images/background_recipes.svg") no-repeat
     center/cover;
   color: white;
@@ -16,8 +16,8 @@
 .recipes__subtitle {
   max-width: 438px;
   margin-top: 23px;
-  padding-bottom: 80px;
-  font-family: "Noto Serif";
+  margin-bottom: 80px;
+  font-family: "Noto Serif", Times, serif;
   font-style: normal;
   font-size: 20px;
   line-height: 30px;
@@ -27,7 +27,6 @@
   display: flex;
   justify-content: center;
   gap: 40px;
-  padding-bottom: 215px;
 }
 
 .recipes__video-caption {
